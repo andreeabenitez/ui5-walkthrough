@@ -45,6 +45,7 @@
                         }
                     }"/>
             </attributes>
+		</ObjectHeader>
 		<wt:ProductRating 
 			id="rating" 
 			class="sapUiSmallMarginBeginEnd" 
